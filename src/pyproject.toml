@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pyside6-starter-blank"
+version = "1.0.0"
+description = ""
+authors = ["irfanykywz <irfanyouth@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+pyside6 = "^6.6.2"
+auto-py-to-exe = "2.42.0"
+requests = "^2.32.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

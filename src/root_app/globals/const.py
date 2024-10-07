@@ -1,0 +1,9 @@
+APPNAME = 'Tiktok Text to Speech'
+APPEXE = 'Tiktok Text to Speech'
+APPVERSION = '1.0'
+SIZE_X = 450
+SIZE_Y = 400
+ICON = 'resources/icons/app.ico'
+CODER = 'irfanykywz'
+SECRET = '???'
+DEBUG = False
